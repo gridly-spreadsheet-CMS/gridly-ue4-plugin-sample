@@ -1,6 +1,3 @@
-[submodule "Gridly"]
-	path = Plugins/Gridly
-	url = git@bitbucket.org:localizedirect/gridly-ue4-plugin.git
 [submodule "Plugins/Gridly"]
 	path = Plugins/Gridly
-	url = git@bitbucket.org:localizedirect/gridly-ue4-plugin.git
+	url = git@github.com:gridly-spreadsheet-CMS/Gridly-UE4-Plugin.git
