@@ -8,4 +8,4 @@ This is a sample project that shows how Gridly can be integrated into any UE4 pr
 
 ## Prerequisities
 
-- Unreal Engine 4.26.0
+- Unreal Engine 4.26.2
