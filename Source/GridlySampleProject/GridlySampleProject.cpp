@@ -1,4 +1,4 @@
-// Copyright © 2020 LocalizeDirect AB
+// Copyright (c) 2021 LocalizeDirect AB
 
 #include "GridlySampleProject.h"
 #include "Modules/ModuleManager.h"
